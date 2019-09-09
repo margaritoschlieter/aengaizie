@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://daingohcu.austinchenyw.com/sitemap.xml
